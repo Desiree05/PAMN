@@ -1,2 +1,3 @@
-1º Codelab de Android Studio.\n
-Aplicación de feliz cumpleaños
+# 1º Codelab de Android Studio.
+
+Aplicación de feliz cumpleaños.
